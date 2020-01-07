@@ -10,7 +10,7 @@ Template Post Type: post, page, product
 				<img src="<?php bloginfo('template_directory')?>/img/logo.png" alt="trans light">
 			</a>
 			<div class="container">
-				<nav class="nav-head">
+				<!-- <nav class="nav-head">
 					<ul class="nav-head__menu d-flex">
 						<li>
 							<a href="#project">
@@ -33,7 +33,7 @@ Template Post Type: post, page, product
 							</a>
 						</li>
 					</ul>
-				</nav>
+				</nav> -->
 			</div>
 			<div id="burger-menu">
 				<a class="burger-menu__button">
